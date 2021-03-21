@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Network Automation & Security i.e. Python, PowerShell, etc.
 - 🌱 I’m currently learning Ansible
-- 💬 Ask me about Network Automaation & Security.
+- 💬 Ask me about Network Automation & Security.
 - 😄 Fun fact: I'm little bit Lazy.
