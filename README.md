@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 
 -->
-- 🔭 I’m currently working on Network Automaation i.e. Python, PowerShell, etc.
+- 🔭 I’m currently working on Network Automation & Security i.e. Python, PowerShell, etc.
 - 🌱 I’m currently learning Ansible
 - 💬 Ask me about Network Automaation & Security.
-- 😄 Fun fact: Lazy
+- 😄 Fun fact: I'm little bit Lazy.
